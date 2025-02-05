@@ -1,7 +1,7 @@
 # adidas_sales_visualisation_tableau
 
 📊 Adidas Sales Analysis (2020-2021)
-🚀 Project Overview
+# 🚀 Project Overview
   Adidas aims to increase its profits by 150% in one year, replicating its past growth. This project analyzes key sales factors using statistical and data visualization techniques to identify optimal strategies for achieving this goal.
 
 📂 Dataset
