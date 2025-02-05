@@ -2,10 +2,10 @@
 ## 🚀 Project Overview
   Adidas aims to increase its profits by 150% in one year, replicating its past growth. This project analyzes key sales factors using statistical and data visualization techniques to identify optimal strategies for achieving this goal.
 
-📂 Dataset
-  Name: Adidas US Sales Data (2020-2021)
-  Source: [kaggle](https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset)
-  Categories: Sportswear, Sales
+## 📂 Dataset
+  - Name: Adidas US Sales Data (2020-2021)
+  - Source: [kaggle](https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset)
+  - Categories: Sportswear, Sales
 
 🎯 Objectives
   Identify high- and low-performing regions, retailers, and product categories
